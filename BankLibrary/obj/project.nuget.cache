@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Adu6gHFFuy/Ea56EKSYuJ4k+V7QjARij709Im617XRI3e1TRm344UkZS9hM+OLBrvqqFFMViQbt0U0tGyeTGYg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Vamshi\\source\\repos\\Lab1Projects\\BankLibrary\\BankLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Vamshi\\.nuget\\packages\\humanizer.core\\2.9.9\\humanizer.core.2.9.9.nupkg.sha512"
+  ],
+  "logs": []
+}
